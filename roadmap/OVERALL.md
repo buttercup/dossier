@@ -7,7 +7,7 @@ This roadmap covers the birds-eye-view direction of the project and where it's h
 
 ### Desktop application
 
-**Status:** Alpha release
+**Status:** Alpha
 
 **Created:** September 12th, 2015
 
@@ -22,3 +22,19 @@ This roadmap covers the birds-eye-view direction of the project and where it's h
  * Linux
 
 Read the [specific project roadmap](BUTTERCUP_DESKTOP.md).
+
+### Browser extension
+
+**Status:** Alpha
+
+**Created:** January 3rd, 2016
+
+**Released:**
+ * Alpha: 14th March, 2017 (0.6.0)
+ * Beta: -
+ * Stable: -
+ 
+**Compatible platforms:**
+ * Google Chrome
+ * Mozilla Firefox
+ 
