@@ -3,7 +3,7 @@
 ## About
 This roadmap covers the birds-eye-view direction of the project and where it's heading. It will be brief and will only cover high-level areas that Buttercup is active in.
 
-## Sub-projects
+## Live projects
 
 ### Desktop application
 
@@ -38,3 +38,14 @@ Read the [specific project roadmap](BUTTERCUP_DESKTOP.md).
  * Google Chrome
  * Mozilla Firefox
  
+## Projects in planning phase
+
+### MyButtercup
+
+**Status:** Research + development
+
+Hosted platform for storing archives and accounts. Other Buttercup software will be able to load and save archives from MyButtercup. Accounts will be free, organisations will be paid (x users or under free - x TBD) (target income model for Buttercup org). Sharing available for organisations.
+
+## Possible/Future projects
+
+_TBA_
