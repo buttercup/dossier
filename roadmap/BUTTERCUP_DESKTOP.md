@@ -9,8 +9,8 @@ The desktop application is a graphical user interface that runs on modern machin
  * Graphical archive management
  * Creation, editing and deletion of credentials
  * Loading from the filesystem
+ * Loading from remote sources
 
 **Planned features:**
- * Loading from remote sources
- * Integration with the my.buttercup service
+ * Integration with the [my.buttercup](OVERALL.md#mybuttercup) service
     * Shared groups for teams
