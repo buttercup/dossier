@@ -38,6 +38,8 @@ Read the [specific project roadmap](BUTTERCUP_DESKTOP.md).
  * Google Chrome
  * Mozilla Firefox
  
+Read the [specific project roadmap](BUTTERCUP_BROWSER_EXTENSION.md)
+ 
 ## Projects in planning phase
 
 ### MyButtercup
