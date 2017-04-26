@@ -14,3 +14,4 @@ The desktop application is a graphical user interface that runs on modern machin
 **Planned features:**
  * Integration with the [my.buttercup](OVERALL.md#mybuttercup) service
     * Shared groups for teams
+ * Integration with a self-hosted buttercup server
