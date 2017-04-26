@@ -56,4 +56,6 @@ Mobile password manager, written in React Native, for iOS and Android.
 
 ## Possible/Future projects
 
-_TBA_
+### Buttercup self-hosted server
+
+There may be some kind of self-hosted Buttercup _server_, but this depends on how the **MyButtercup** project goes. Priorities are definitely elsewhere currently.
