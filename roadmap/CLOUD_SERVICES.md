@@ -31,3 +31,10 @@ These items are **not to be implemented** until further notice. Merge-requests r
 
  * Google Drive
  * Hubic
+
+These items may be blocked for one or more of the following reasons:
+
+ * Insufficient public usage - We're responsible for the maintenance and upkeep of each provider Buttercup uses. We'll concentrate on the more popular services for now.
+ * Questionable brand / platform stability
+ * Incompatible or obscure API
+ 
