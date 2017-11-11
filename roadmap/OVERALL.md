@@ -39,6 +39,10 @@ Read the [specific project roadmap](BUTTERCUP_DESKTOP.md).
  * Mozilla Firefox
  
 Read the [specific project roadmap](BUTTERCUP_BROWSER_EXTENSION.md)
+
+### Mobile application
+
+TBA
  
 ## Projects in planning phase
 
@@ -48,11 +52,8 @@ Read the [specific project roadmap](BUTTERCUP_BROWSER_EXTENSION.md)
 
 Hosted platform for storing archives and accounts. Other Buttercup software will be able to load and save archives from MyButtercup. Accounts will be free, organisations will be paid (x users or under free - x TBD) (target income model for Buttercup org). Sharing available for organisations.
 
-### Buttercup mobile app
-
-**Status:** Research
-
-Mobile password manager, written in React Native, for iOS and Android.
+## Integrations
+Tracking of integrated cloud storage providers can be found [here](CLOUD_SERVICES.md).
 
 ## Possible/Future projects
 
