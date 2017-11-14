@@ -31,6 +31,7 @@ These items are **not to be implemented** until further notice. Merge-requests r
 
  * Google Drive
  * Hubic
+ * Citrix ShareFile (Supports WebDAV)
 
 These items may be blocked for one or more of the following reasons:
 
