@@ -24,6 +24,11 @@ Questions should obey the following rules:
 
  * No duplicates
  * Relevant to the platform (and project)
+ 
+### General
+All issues/PRs should follow these rules:
+
+ * Issue must be relevant for the hardware and software systems that Buttercup is built for. Unsupported OSes/browsers/machines are not valid to lodge issues against.
 
 ## Contributing
 
