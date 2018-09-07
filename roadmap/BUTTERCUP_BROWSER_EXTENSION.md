@@ -11,11 +11,19 @@ The browser extension allows users to connect their archives in their browser fo
  * Loading from remote sources
  * Support for Google Chrome
  * Support for Mozilla Firefox
+ * Support for Opera
  * Autofilling of forms
+ * Password generation
 
 **Planned features:**
  * Loading from the filesystem
  * Integration with the [my.buttercup](OVERALL.md#mybuttercup) service
- * Password generation
  * Password renewal/update
+ * Support for Safari
+ * Support for MS Edge
+
+**Blocked feature requests:**
+These items are on hold until further notice:
+
+ * Support for Vivaldi and other browsers outside of Chrome, Firefox, Opera, Safari and Edge
    
