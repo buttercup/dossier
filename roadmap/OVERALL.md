@@ -7,14 +7,9 @@ This roadmap covers the birds-eye-view direction of the project and where it's h
 
 ### Desktop application
 
-**Status:** Alpha
+**Status:** Stable
 
 **Created:** September 12th, 2015
-
-**Released:**
- * Alpha: 30th January, 2016
- * Beta: -
- * Stable: -
 
 **Compatible platforms:**
  * Windows
@@ -25,15 +20,10 @@ Read the [specific project roadmap](BUTTERCUP_DESKTOP.md).
 
 ### Browser extension
 
-**Status:** Alpha
+**Status:** Stable
 
 **Created:** January 3rd, 2016
 
-**Released:**
- * Alpha: 14th March, 2017 (0.6.0)
- * Beta: -
- * Stable: -
- 
 **Compatible platforms:**
  * Google Chrome
  * Mozilla Firefox
@@ -42,7 +32,8 @@ Read the [specific project roadmap](BUTTERCUP_BROWSER_EXTENSION.md)
 
 ### Mobile application
 
-TBA
+* [Apple](https://itunes.apple.com/us/app/buttercup-password-manager/id1294001514?ls=1&mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.buttercup&hl=en)
  
 ## Projects in planning phase
 
