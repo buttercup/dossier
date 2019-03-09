@@ -16,6 +16,7 @@ The following cloud storage providers are supported by the platform:
 Not all WebDAV operators are supported. A whitelist is maintained here for those that are known to work well with Buttercup:
 
  * [Yandex](https://yandex.ru/)
+ * [Synology NAS](https://www.synology.com/en-global/dsm/packages/WebDAVServer)
 
 ## Greenlit solutions
 
