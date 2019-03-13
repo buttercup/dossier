@@ -19,7 +19,6 @@ The browser extension allows users to connect their archives in their browser fo
  * Integration with the [my.buttercup](OVERALL.md#mybuttercup) service
  * Password renewal/update
  * Support for Safari
- * Support for Opera
  * Support for MS Edge
 
 **Blocked feature requests:**
