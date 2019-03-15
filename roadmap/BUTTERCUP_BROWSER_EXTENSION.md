@@ -9,14 +9,13 @@ The browser extension allows users to connect their archives in their browser fo
  * Graphical archive management
  * Storage of new credentials
  * Loading from remote sources
+ * Loading from the filesystem
  * Support for Google Chrome
  * Support for Mozilla Firefox
- * Support for Opera
  * Autofilling of forms
  * Password generation
 
 **Planned features:**
- * Loading from the filesystem
  * Integration with the [my.buttercup](OVERALL.md#mybuttercup) service
  * Password renewal/update
  * Support for Safari
