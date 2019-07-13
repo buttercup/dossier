@@ -21,8 +21,8 @@ Not all WebDAV operators are supported. A whitelist is maintained here for those
 
 There are several cloud solutions that Buttercup _can_ work with, given the correct configuration is applied:
 
- * ownCloud
- * Nextcloud
+ * ownCloud (see [here](https://medium.com/@buttercup_pw/were-deprecating-owncloud-and-nextcloud-connections-but-it-s-still-possible-to-use-them-with-abeec4d30101))
+ * Nextcloud (see [here](https://medium.com/@buttercup_pw/were-deprecating-owncloud-and-nextcloud-connections-but-it-s-still-possible-to-use-them-with-abeec4d30101))
  
 Using these solutions is possible but entirely at the user's own motivation. We do not support issues relating solely to connection/usage problems on these platforms.
 
