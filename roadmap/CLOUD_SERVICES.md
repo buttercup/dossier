@@ -7,8 +7,7 @@ This document deals with Archive storage solutions provided by the Buttercup pla
 The following cloud storage providers are supported by the platform:
 
  * Dropbox
- * ownCloud
- * Nextcloud
+ * Google Drive
  * WebDAV (see below)
  
 ### WebDAV operators
@@ -17,6 +16,15 @@ Not all WebDAV operators are supported. A whitelist is maintained here for those
 
  * [Yandex](https://yandex.ru/)
  * [Synology NAS](https://www.synology.com/en-global/dsm/packages/WebDAVServer)
+
+### Unofficial support/recognition
+
+There are several cloud solutions that Buttercup _can_ work with, given the correct configuration is applied:
+
+ * ownCloud
+ * Nextcloud
+ 
+Using these solutions is possible but entirely at the user's own motivation. We do not support issues relating solely to connection/usage problems on these platforms.
 
 ## Greenlit solutions
 
