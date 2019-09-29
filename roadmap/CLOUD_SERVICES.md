@@ -38,10 +38,10 @@ These items have been OK'd for future integration:
 
 These items are **not to be implemented** until further notice. Merge-requests regarding these items may be closed without warning:
 
- * Google Drive
  * Hubic
  * Citrix ShareFile (Supports WebDAV)
  * Sync.com
+ * Mega
 
 These items may be blocked for one or more of the following reasons:
 
