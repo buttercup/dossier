@@ -3,6 +3,7 @@
 ## Contents
 
  * [Platform structure](PLATFORM.md)
+ * [Features](FEATURES.md)
 
 ## About
 
