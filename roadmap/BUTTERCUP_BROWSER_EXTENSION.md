@@ -14,12 +14,12 @@ The browser extension allows users to connect their archives in their browser fo
  * Support for Mozilla Firefox
  * Autofilling of forms
  * Password generation
+ * Support for MS Edge
 
 **Planned features:**
  * Integration with the [my.buttercup](OVERALL.md#mybuttercup) service
  * Password renewal/update
  * Support for Safari
- * Support for MS Edge
 
 **Blocked feature requests:**
 These items are on hold until further notice:
