@@ -33,3 +33,4 @@ _NB: Struck-out items have most likely been recently included in the v4 release 
 
  * Desktop application
    * [Exporter](https://github.com/buttercup/buttercup-exporter) - Export Buttercup vaults
+   * [Importer](https://github.com/buttercup/buttercup-importer) - Import vaults from other password managers
