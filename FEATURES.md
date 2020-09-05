@@ -10,9 +10,11 @@ _Keep in alphabetical order._
 |-------------------------------|-----------|-----------|-----------|-----------|
 | Auto-lock (after time)        |           | ✅        | ✅        |           |
 | Auto login                    |           | ✅❗      | ✅        |           |
+| Dynamic entry icons           |           |           | ✅        |           |
 | Export vaults                 | ✅        |           |           |           |
 | Import vaults                 | ✅        |           |           |           |
 | Local vaults (on device)      | ✅        |           | ✅❗      | ✅        |
+| My Buttercup (service)        | ✅        | ✅        | ✅        |           |
 | OTP list (all codes)          |           | ✅        |           |           |
 | OTP scan (QR)                 |           | ✅        |           |           |
 | OTP single code display       |           |           | ✅        | ✅        |
