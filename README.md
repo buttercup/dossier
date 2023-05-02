@@ -4,6 +4,7 @@
 
  * [Platform structure](PLATFORM.md)
  * [Features](FEATURES.md)
+ * [Roadmap](ROADMAP.md)
 
 ## About
 
